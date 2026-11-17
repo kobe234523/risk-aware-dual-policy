@@ -1,0 +1,12 @@
+numpy==1.21.6
+Pillow
+gym==0.17.3
+pygame
+dotmap
+scipy
+networkx
+imageio
+imageio-ffmpeg
+tensorboard
+termcolor
+matplotlib
